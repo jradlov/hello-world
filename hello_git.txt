@@ -10,6 +10,8 @@ Will be modifying this file from Vs Code and from github itself and doing pulls 
 6. source control will show the number of files to commit
 7. enter message/description of what the commit is about
 8. click the check mark on top to commit the changes
+9. command palette: git add remote
+10. push the committed changes to github: source control "..." & push
 
 
 
