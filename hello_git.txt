@@ -16,14 +16,14 @@ How to add an existing VS Code project to git and github
 
 How to clone from github to another computer
 
-13. copy project url from github
-14. vsc view/command palette... git clone
-15. enter project url
-16. select floder where to store the local repository
+12. copy project url from github
+13. vsc view/command palette... git clone
+14. enter project url
+15. select floder where to store the local repository
 
 
 How to remove local git repository
 
-17. vsc view/command palette... git close repository
-18. delete hidden folder .git from project local folder
+16. vsc view/command palette... git close repository
+17. delete hidden folder .git from project local folder
 
