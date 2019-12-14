@@ -1,6 +1,5 @@
-This is a test file to play around with github.
-Mostly test the VS Code features of git.
-Will be modifying this file from Vs Code and from github itself and doing pulls & pushes.
+How to add an existing VS Code project to git and github
+& How to do commit & push whenever changes happen
 
 1. create a repository on github
 2. copy its url - we'll need it on vs code
@@ -12,6 +11,7 @@ Will be modifying this file from Vs Code and from github itself and doing pulls 
 8. click the check mark on top to commit the changes
 9. command palette: git add remote
 10. push the committed changes to github: source control "..." & push or cloud icon at bottom bar
+11. check changes on github repository
 
 
 
