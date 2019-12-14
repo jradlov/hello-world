@@ -9,10 +9,21 @@ How to add an existing VS Code project to git and github
 6. source control will show the number of files to commit
 7. enter message/description of what the commit is about
 8. click the check mark on top to commit the changes
-9. command palette: git add remote
-10. push the committed changes to github: source control "..." & push or cloud icon at bottom bar
+9. command palette: git add remote (if github repository hasn't been added)
+10. push the committed changes to github: source control "..." -> push or icon at bottom bar
 11. check changes on github repository
 
 
+How to clone from github to another computer
 
+13. copy project url from github
+14. vsc view/command palette... git clone
+15. enter project url
+16. select floder where to store the local repository
+
+
+How to remove local git repository
+
+17. vsc view/command palette... git close repository
+18. delete hidden folder .git from project local folder
 
