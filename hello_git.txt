@@ -1,3 +1,5 @@
+Added this line in the master branch after the test-branch-1 was created
+
 How to add an existing VS Code project to git and github
 & How to do commit & push whenever changes happen
 
